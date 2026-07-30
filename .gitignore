@@ -1,6 +1,9 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-/.idea
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+mnist_data/
